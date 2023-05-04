@@ -19,6 +19,13 @@ app.get('/chef/:id', (req, res) => {
     res.send(singleChef)
 })
 
+app.get('*', (req, res) => {
+    res.send({
+        message: "404 Error ! Page Not found...",
+        admin: "Tiyasa Tagore"
+    })
+})
+
 app.listen(port, () => {
     console.log(`Chef recipe hunter is running on port ${port}`)
 })
