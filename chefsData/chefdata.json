@@ -1,0 +1,373 @@
+[
+    {
+        "id": 1,
+        "name": "Emma Thompson",
+        "picture": "https://img.freepik.com/free-photo/portrait-smiling-excited-male-chef-dressed-uniform_171337-5358.jpg?w=1060&t=st=1683230834~exp=1683231434~hmac=17bd74ff91daa6ce2e7279da760ca7771091cea0e7869424cf9745ae7276504c",
+        "bio": "Emma Thompson is an accomplished chef with a passion for French cuisine. She loves to create innovative dishes that showcase her attention to detail.",
+        "likes": 1240,
+        "recipes": [
+            {
+                "name": "Coq au Vin",
+                "ingredients": [
+                    "1 whole chicken, cut into pieces",
+                    "150g bacon",
+                    "300g button mushrooms",
+                    "1 bottle red wine",
+                    "1 onion, chopped",
+                    "3 cloves garlic, minced",
+                    "2 cups chicken broth",
+                    "2 tablespoons tomato paste",
+                    "1 tablespoon thyme",
+                    "2 tablespoons unsalted butter",
+                    "salt and pepper"
+                ],
+                "method": "1. Preheat oven to 180°C...\n2. In a large ovenproof...",
+                "rating": 4.7,
+                "favourite": true
+            },
+            {
+                "name": "Ratatouille",
+                "ingredients": [
+                    "1 eggplant",
+                    "1 zucchini",
+                    "1 yellow squash",
+                    "1 red bell pepper",
+                    "1 onion",
+                    "3 cloves garlic",
+                    "1 can diced tomatoes",
+                    "1/4 cup olive oil",
+                    "1 tablespoon dried basil",
+                    "1 tablespoon dried oregano",
+                    "salt and pepper"
+                ],
+                "method": "1. Preheat oven to 190°C...\n2. Cut vegetables...",
+                "rating": 4.5,
+                "favourite": false
+            },
+            {
+                "name": "Chocolate Soufflé",
+                "ingredients": [
+                    "200g dark chocolate",
+                    "6 eggs",
+                    "50g unsalted butter",
+                    "100g granulated sugar",
+                    "30g cocoa powder",
+                    "1/4 teaspoon salt",
+                    "1/2 teaspoon vanilla extract"
+                ],
+                "method": "1. Preheat oven to 190°C...\n2. Melt chocolate...",
+                "rating": 4.9,
+                "favourite": true
+            }
+        ],
+        "year_of_experience": 12
+    },
+    {
+        "id": 2,
+        "name": "Lucas Brown",
+        "picture": "https://img.freepik.com/free-photo/male-cook-standing-kitchen-presenting-delicious-dish_23-2147863798.jpg?w=740&t=st=1683230952~exp=1683231552~hmac=de063a34fafd84195e74a72f93d23e42137b46e2fecd84fa3e9a4418fc28ec16",
+        "bio": "Lucas Brown is a renowned chef specializing in Italian cuisine. He is known for his flavorful and hearty dishes, often featuring fresh, local ingredients.",
+        "likes": 1840,
+        "recipes": [
+            {
+                "name": "Lasagna Bolognese",
+                "ingredients": [
+                    "12 lasagna noodles",
+                    "1 lb ground beef",
+                    "1 onion, chopped",
+                    "2 cloves garlic, minced",
+                    "1 can crushed tomatoes",
+                    "1 can tomato paste",
+                    "1 can tomato sauce",
+                    "1/2 cup white wine",
+                    "1 cup ricotta cheese",
+                    "1 cup grated Parmesan cheese",
+                    "2 cups shredded mozzarella cheese",
+                    "2 tablespoons fresh basil",
+                    "1 tablespoon dried oregano",
+                    "1 teaspoon salt",
+                    "1/2 teaspoon black pepper"
+                ],
+                "method": "1. Preheat oven to 190°C...\n2. Cook lasagna noodles...",
+                "rating": 4.8,
+                "favourite": true
+            },
+            {
+                "name": "Pasta Carbonara",
+                "ingredients": [
+                    "1 lb spaghetti",
+                    "4 large eggs",
+                    "8 ounces pancetta or bacon, diced",
+                    "1 cup grated Parmesan cheese",
+                    "1/4 cup chopped parsley",
+                    "1/2 teaspoon black pepper",
+                    "1/4 teaspoon salt"
+                ],
+                "method": "1. Cook spaghetti in boiling salted water...\n2. In a skillet, cook pancetta...",
+                "rating": 4.6,
+                "favourite": true
+            },
+            {
+                "name": "Tiramisu",
+                "ingredients": [
+                    "6 egg yolks",
+                    "1 cup sugar",
+                    "1 1/4 cups mascarpone cheese",
+                    "1 3/4 cups heavy whipping cream",
+                    "2 cups espresso, cooled",
+                    "2 tablespoons rum",
+                    "24 ladyfinger cookies",
+                    "1/2 cup cocoa powder"
+                ],
+                "method": "1. Beat egg yolks and sugar...\n2. In another bowl, whip cream...",
+                "rating": 4.9,
+                "favourite": false
+            }
+        ],
+        "year_of_experience": 15
+    },
+    {
+        "id": 3,
+        "name": "Sophia Chen",
+        "picture": "https://img.freepik.com/free-photo/mid-shot-chef-holding-plate-with-pasta-making-ok-sign_23-2148794087.jpg?w=1060&t=st=1683231015~exp=1683231615~hmac=7fb55018bb67fdb5306d38405bd0d9f93de6060a559be2dd14c8254cb6cf3a36",
+        "bio": "Sophia Chen is a master of Chinese cuisine, crafting exquisite and authentic dishes that reflect her deep understanding of traditional Chinese cooking techniques.",
+        "likes": 2320,
+        "recipes": [
+            {
+                "name": "Kung Pao Chicken",
+                "ingredients": [
+                    "1 lb boneless chicken thighs, diced",
+                    "1/2 cup unsalted peanuts",
+                    "1/2 cup diced bell peppers",
+                    "1/2 cup diced onion",
+                    "2 cloves garlic, minced",
+                    "1 tablespoon vegetable oil",
+                    "1 tablespoon soy sauce",
+                    "1 tablespoon hoisin sauce",
+                    "1 tablespoon rice vinegar",
+                    "1/2 teaspoon crushed red pepper flakes"
+                ],
+                "method": "1. Heat oil in a wok...\n2. Stir-fry chicken...",
+                "rating": 4.7,
+                "favourite": true
+            },
+            {
+                "name": "Mapo Tofu",
+                "ingredients": [
+                    "1 lb silken tofu, cubed",
+                    "1/2 lb ground pork",
+                    "2 tablespoons vegetable oil",
+                    "2 cloves garlic, minced",
+                    "1 tablespoon ginger, minced",
+                    "2 tablespoons doubanjiang (fermented bean paste)",
+                    "1 cup chicken broth",
+                    "2 teaspoons cornstarch",
+                    "2 teaspoons Szechuan peppercorns, crushed",
+                    "1/4 cup chopped green onions"
+                ],
+                "method": "1. Heat oil in a wok...\n2. Stir-fry pork...",
+                "rating": 4.5,
+                "favourite": false
+            },
+            {
+                "name": "Egg Fried Rice",
+                "ingredients": [
+                    "3 cups cooked jasmine rice",
+                    "3 large eggs, beaten",
+                    "1/2 cup frozen peas",
+                    "1/2 cup diced carrots",
+                    "1/2 cup diced onion",
+                    "2 tablespoons vegetable oil",
+                    "2 tablespoons soy sauce",
+                    "1/2 teaspoon sesame oil",
+                    "1/4 teaspoon white pepper"
+                ],
+                "method": "1. Heat 1 tablespoon of oil in a wok...\n2. Stir-fry vegetables...",
+                "rating": 4.4,
+                "favourite": false
+            }
+        ],
+        "year_of_experience": 18
+    },
+    {
+        "id": 4,
+        "name": "Olivia Garcia",
+        "picture": "https://img.freepik.com/free-photo/female-chef-standing-with-crossed-arms-white-uniform-looking-happy_176474-13476.jpg?w=1060&t=st=1683231059~exp=1683231659~hmac=98c275b5d800efff18ad691b5f56c24cc61989bb1b0e01c449decab86fe88a00",
+        "bio": "Olivia Garcia is an expert in Mexican cuisine, creating vibrant and flavorful dishes that pay homage to her family's culinary heritage.",
+        "likes": 2100,
+        "recipes": [
+            {
+                "name": "Chicken Enchiladas",
+                "ingredients": [
+                    "12 corn tortillas",
+                    "2 cups cooked, shredded chicken",
+                    "1 onion, chopped",
+                    "1 1/2 cups shredded cheddar cheese",
+                    "1/4 cup chopped cilantro",
+                    "1 can enchilada sauce",
+                    "1/4 cup vegetable oil",
+                    "sour cream, for serving"
+                ],
+                "method": "1. Preheat oven to 190°C...\n2. Heat oil in a skillet...",
+                "rating": 4.8,
+                "favourite": true
+            },
+            {
+                "name": "Chiles Rellenos",
+                "ingredients": [
+                    "6 large poblano peppers",
+                    "1 lb ground beef",
+                    "1 onion, chopped",
+                    "1 cup cooked rice",
+                    "1 cup shredded Monterey Jack cheese",
+                    "1 can diced tomatoes",
+                    "1/2 teaspoon cumin",
+                    "1/2 teaspoon salt",
+                    "1/4 teaspoon black pepper",
+                    "1 cup flour",
+                    "1 cup breadcrumbs",
+                    "2 eggs, beaten",
+                    "vegetable oil, for frying"
+                ],
+                "method": "1. Roast poblano peppers...\n2. Prepare the filling...",
+                "rating": 4.6,
+                "favourite": false
+            },
+            {
+                "name": "Flan",
+                "ingredients": [
+                    "1 cup granulated sugar",
+                    "1 can sweetened condensed milk",
+                    "1 can evaporated milk",
+                    "5 large eggs",
+                    "1 tablespoon vanilla extract"
+                ],
+                "method": "1. Preheat oven to 160°C...\n2. Prepare the caramel...",
+                "rating": 4.7,
+                "favourite": true
+            }
+        ],
+        "year_of_experience": 14
+    },
+    {
+        "id": 5,
+        "name": "James Smith",
+        "picture": "https://img.freepik.com/premium-photo/portrait-smiling-male-chef-standing-kitchen-counter-cutting-vegetables_23-2147863744.jpg?w=1060",
+        "bio": "James Smith is a skilled sushi chef who has honed his craft in Japan, developing a keen eye for quality and precision in the art of sushi-making.",
+        "likes": 2600,
+        "recipes": [
+            {
+                "name": "Salmon Nigiri",
+                "ingredients": [
+                    "2 cups sushi rice",
+                    "1/4 cup sushi vinegar",
+                    "12 slices fresh salmon",
+                    "1 tablespoon wasabi"
+                ],
+                "method": "1. Prepare sushi rice...\n2. Assemble the nigiri...",
+                "rating": 4.9,
+                "favourite": true
+            },
+            {
+                "name": "California Roll",
+                "ingredients": [
+                    "2 cups sushi rice",
+                    "1/4 cup sushi vinegar",
+                    "4 nori sheets",
+                    "1 avocado, sliced",
+                    "1 cucumber, julienned",
+                    "1/2 lb imitation crab sticks",
+                    "2 tablespoons sesame seeds",
+                    "1 tablespoon wasabi",
+                    "soy sauce, for serving"
+                ],
+                "method": "1. Prepare sushi rice...\n2. Assemble the rolls...",
+                "rating": 4.5,
+                "favourite": false
+            },
+            {
+                "name": "Spicy Tuna Roll",
+                "ingredients": [
+                    "2 cups sushi rice",
+                    "1/4 cup sushi vinegar",
+                    "4 nori sheets",
+                    "1/2 lb sushi-grade tuna, minced",
+                    "1/4 cup mayonnaise",
+                    "1 tablespoon sriracha",
+                    "1 tablespoon wasabi",
+                    "soy sauce, for serving"
+                ],
+                "method": "1. Prepare sushi rice...\n2. Assemble the rolls...",
+                "rating": 4.8,
+                "favourite": true
+            }
+        ],
+        "year_of_experience": 20
+    },
+    {
+        "id": 6,
+        "name": "Mia Patel",
+        "picture": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy_140725-15367.jpg?w=1060&t=st=1683231222~exp=1683231822~hmac=3798a090012672844316e77d3fab3ed52dc15e2f831b67743ee411274a75bb37",
+        "bio": "Mia Patel is a talented chef with a passion for Indian cuisine. She enjoys blending traditional Indian flavors with modern techniques to create delicious and innovative dishes.",
+        "likes": 2750,
+        "recipes": [
+            {
+                "name": "Chicken Tikka Masala",
+                "ingredients": [
+                    "1 lb boneless chicken thighs, cubed",
+                    "1 cup plain yogurt",
+                    "1/4 cup tikka masala paste",
+                    "1 onion, chopped",
+                    "2 cloves garlic, minced",
+                    "1 can crushed tomatoes",
+                    "1 cup heavy cream",
+                    "1/4 cup chopped cilantro",
+                    "2 tablespoons vegetable oil",
+                    "1 teaspoon garam masala",
+                    "salt and pepper"
+                ],
+                "method": "1. Marinate chicken...\n2. Cook onion and garlic...",
+                "rating": 4.7,
+                "favourite": true
+            },
+            {
+                "name": "Palak Paneer",
+                "ingredients": [
+                    "1 lb fresh spinach",
+                    "1 lb paneer, cubed",
+                    "1 onion, chopped",
+                    "2 cloves garlic, minced",
+                    "1 teaspoon ginger, minced",
+                    "1 tomato, chopped",
+                    "1/2 cup heavy cream",
+                    "2 tablespoons vegetable oil",
+                    "1 teaspoon cumin seeds",
+                    "1 teaspoon garam masala",
+                    "1/2 teaspoon turmeric",
+                    "1/2 teaspoon red chili powder",
+                    "salt"
+                ],
+                "method": "1. Blanch spinach...\n2. Cook onion, garlic...",
+                "rating": 4.5,
+                "favourite": false
+            },
+            {
+                "name": "Chai Panna Cotta",
+                "ingredients": [
+                    "2 cups heavy cream",
+                    "1 cup milk",
+                    "1/4 cup granulated sugar",
+                    "1 tablespoon loose black tea",
+                    "2 tablespoons chai spice blend",
+                    "1/4 cup cold water",
+                    "2 teaspoons unflavored gelatin",
+                    "1/2 teaspoon vanilla extract"
+                ],
+                "method": "1. Infuse cream with tea and spices...\n2. Dissolve gelatin...",
+                "rating": 4.6,
+                "favourite": true
+            }
+        ],
+        "year_of_experience": 10
+    }
+]
